@@ -18,7 +18,7 @@
 - Run `pip3 uninstall requests`
 
 
-## How it works?
+## How-to use?
 
 You can use this parser in different ways:
 	
