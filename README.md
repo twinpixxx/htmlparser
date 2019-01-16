@@ -23,7 +23,7 @@
 You can use this parser in different ways:
 	1) Parse html at all 
 		Just enter url
-![Alt Text](hhttps://puu.sh/Cxkt7/d29b661b96.gif)
+![Alt Text](https://puu.sh/Cxkt7/d29b661b96.gif)
 	2) Parse all defined tags
 		Enter url and rigth after add your tag
 ![Alt Text](https://puu.sh/Cxktk/f562c4d7bc.gif)
