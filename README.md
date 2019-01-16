@@ -21,6 +21,8 @@
 ## How it works?
 
 You can use this parser in different ways:
+	
+	
 	1) Parse html at all 
 		Just enter url
 ![Alt Text](https://puu.sh/Cxkt7/d29b661b96.gif)
