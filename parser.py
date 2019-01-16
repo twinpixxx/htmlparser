@@ -9,7 +9,7 @@ userInfo = {'User-Agent':str(user)}
 
 print("Input your url")
 url = input("http://")
-page = requests.get("http://"+url.split()[0])
+page = requests.get("http://"+url.split()[0], headers = userInfo)
 soup = BeautifulSoup(page.text, "html.parser")
 
 # HTML Parse at all
